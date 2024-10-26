@@ -7,8 +7,8 @@
 I am a telecomunication engineer, data engineer and backend developer. I work as a software developer at a company that sells construction materials.
 - 🌱 I’m currently learning ...
   - AWS
+- [Website](https://tusitio.com) 🌐.
 - Besides tech, 🎮 I love playing videogames, 🎵 listening to music,🏋️‍♂️ working out, and 📖 reading horror books.
-- 🌐 <a href="https://javierserong.dev/"> My website.</a>
 - 📫 Reach out to me at: <a href="seron.jsg@gmail.com">seron.jsg@gmail.com</a>
 
 
