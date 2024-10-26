@@ -8,7 +8,9 @@ I am a telecomunication engineer, data engineer and backend developer. I work as
 - 🌱 I’m currently learning ...
   - AWS
 - Besides tech, 🎮 I love playing videogames, 🎵 listening to music,🏋️‍♂️ working out, and 📖 reading horror books.
+- 🌐 <a href="https://javierserong.dev/"> My website.</a>
 - 📫 Reach out to me at: <a href="seron.jsg@gmail.com">seron.jsg@gmail.com</a>
+
 
 ## My Skills Include
 
@@ -79,6 +81,9 @@ I am a telecomunication engineer, data engineer and backend developer. I work as
 </a>
 <a href="" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+</a>
+<a href="https://www.linkedin.com/in/javierseronguzman/" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 
 
