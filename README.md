@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a telecomunication engineer, data scientist and backend developer. I work as a software developer at a company that sells construction materials.
+I am a telecomunication engineer and data engineer. I currently work as a data engineer.
 - 🌱 I’m currently learning ...
   - AWS
 - [Official Website](https://javierserong.dev/) 🌐.
