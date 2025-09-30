@@ -5,10 +5,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a telecomunication engineer and data engineer. I currently work as a data engineer.
-- 🌱 I’m currently learning ...
-  - AWS
-- [Official Website](https://javierserong.dev/) 🌐.
-- Besides tech, 🎮 I love playing videogames, 🎵 listening to music,🏋️‍♂️ working out, and 📖 reading horror books.
 - 📫 Reach out to me at: <a href="seron.jsg@gmail.com">seron.jsg@gmail.com</a>
 
 
